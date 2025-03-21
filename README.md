@@ -18,4 +18,4 @@ Select the link below or from the repository to doanload the course as a SCORM v
 
 {% include button.html url="http://www.google.com" %}
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+[Static Badge](https://img.shields.io/badge/:badgeContent)
