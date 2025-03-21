@@ -10,4 +10,4 @@ Over four 45-minute, self-paced lessons, you'll explore SOC functions, best prac
 ## SCORM Files
 Select the link below or from the repository to doanload the course as a SCORM v1.2 file to load into your LMS.
 
-[Download the SCORM v1.2 Zip](https://foo.bar)
+[Download the SCORM v1.2 Zip](https://github.com/sburt1/socsinabox/raw/refs/heads/main/SOCs-in-a-Box-SCORM.zip)
