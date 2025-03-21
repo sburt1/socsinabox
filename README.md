@@ -14,3 +14,4 @@ Select the link below or from the repository to doanload the course as a SCORM v
 [Download the SCORM v1.2 Zip](https://github.com/sburt1/socsinabox/raw/refs/heads/main/SOCs-in-a-Box-SCORM.zip)
 
 [Alt text](hero.png?raw=true "Title")
+![Alt text](/hero.png?raw=true "Title")
