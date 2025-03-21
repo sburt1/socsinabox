@@ -14,4 +14,6 @@ Select the link below or from the repository to doanload the course as a SCORM v
 
 [![Button Click]][Link]
 
-[Click me](http://www.google.com){: .btn}
+[Click me](http://www.google.com) {: .btn}
+
+{% include button.html url="http://www.google.com" %}
