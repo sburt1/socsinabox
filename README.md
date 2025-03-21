@@ -1,5 +1,5 @@
 # SOCs in a Box
-## Demo Security Operations Course for Students
+**Demo Security Operations Course for Students**
 <br>
 This 3-hour training is designed to prepare upper high school and higher education students with the hands-on experience and practical knowledge needed to actively contribute to a Security Operations Center (SOC) at their school or institution.
 <br>
@@ -7,7 +7,7 @@ Over four 45-minute, self-paced lessons, you'll explore SOC functions, best prac
 <br>
 [![Button Click]][Link]
 <br>
-### SCORM Files
+## SCORM Files
 Select the link below or from the repository to doanload the course as a SCORM v1.2 file to load into your LMS.
 <br>
 [![Button Click]][Link]
