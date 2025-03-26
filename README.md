@@ -13,6 +13,8 @@ Over four 45-minute, self-paced lessons, you'll explore SOC functions, best prac
 [Preview the Course](https://sburt1.github.io/socsinabox/content/#/)
 
 ## SCORM Files
-Select the link below or from the repository to download the course as a SCORM v1.2 file to load into your LMS.
+Select the link below to download the course as a SCORM v1.2 Learning object to install and adapt in your own learning management system (LMS).
 
 [Download the SCORM v1.2 Zip](https://github.com/sburt1/socsinabox/raw/refs/heads/main/SOCs-in-a-Box-SCORM.zip)
+
+The course and its associated resources are packaged as a SCORM 1.2 learning object which is compatible with most LMS platforms. If you are unfamiliar with SCORM learning objects, take a look at [SCORM Explained 101](https://scorm.com/scorm-explained/one-minute-scorm-overview/) as well as these two videos that demonstrate how to import and publish SCORM files and the second on adapting and personalizing SCORM files in your LMS.
