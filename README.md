@@ -7,7 +7,7 @@ This 3-hour training is designed to prepare upper high school and higher educati
 
 Over four 45-minute, self-paced lessons, you'll explore SOC functions, best practices, and tools like Microsoft Sentinel, Defender, and Security Copilot, gaining skills in incident response and threat detection. You'll also work through simulated security incidents, applying real-world practices to build your problem-solving and decision-making abilities. By the end, you'll have the foundation needed to take on a role in your institution’s SOC and pursue further training and certifications in the cybersecurity field.
 
-**Lesson topics**
+### Lesson topics
 1. Course overview
 2. SOC tools and technologies
 3. Scenarios and practical applications
@@ -15,7 +15,7 @@ Over four 45-minute, self-paced lessons, you'll explore SOC functions, best prac
 
 [Preview the course](https://sburt1.github.io/socsinabox/content/#/)
 
-## SCORM files
+### SCORM files
 Select the link below to download the course as a SCORM v1.2 Learning object to install and adapt in your own learning management system (LMS).
 
 [Download the SCORM v1.2 zip file package](https://github.com/sburt1/socsinabox/raw/refs/heads/main/SOCs-in-a-Box-SCORM.zip)
