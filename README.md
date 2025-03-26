@@ -1,4 +1,4 @@
-# SOCs in a Box
+# Security Operations Center training course
 ![Alt text](/i/hero-2.jpg?raw=true "Hero Image")
 ## Security Operations Course for Students
 **Developed by Microsoft Education**
