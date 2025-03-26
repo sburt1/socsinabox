@@ -1,6 +1,6 @@
 # SOCs in a Box
 ![Alt text](/i/hero-2.jpg?raw=true "Hero Image")
-##Security Operations Course for Students
+## Security Operations Course for Students
 **Developed by Microsoft Education**
 
 This 3-hour training is designed to prepare upper high school and higher education students with the hands-on experience and practical knowledge needed to actively contribute to a Security Operations Center (SOC) at their school or institution.
