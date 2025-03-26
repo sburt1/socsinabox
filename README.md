@@ -14,6 +14,7 @@ Over four 45-minute, self-paced lessons, you'll explore SOC functions, best prac
 4. Best practices and career readiness
 
 [Preview the course](https://sburt1.github.io/socsinabox/content/#/)
+[<img src="/i/preview.jpg" alt="Click me" width="200" />](https://github.com/user/repository/subscription)
 
 ### SCORM files
 Select the link below to download the course as a SCORM v1.2 Learning object to install and adapt in your own learning management system (LMS).
@@ -24,4 +25,4 @@ The course and its associated resources are packaged as a SCORM 1.2 learning obj
 
 ### Button test
 [<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/user/repository/subscription)
-[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" alt="Click me" width="25" />](https://github.com/user/repository/subscription)
+[<img src="/i/preview.jpg" alt="Click me" width="200" />](https://github.com/user/repository/subscription)
