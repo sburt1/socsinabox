@@ -1,5 +1,5 @@
 # SOCs in a Box
-![Alt text](/hero.png?raw=true "Title")
+![Alt text](/i/hero.png?raw=true "Hero Image")
 **Demo Security Operations Course for Students**
 
 This 3-hour training is designed to prepare upper high school and higher education students with the hands-on experience and practical knowledge needed to actively contribute to a Security Operations Center (SOC) at their school or institution.
