@@ -21,7 +21,7 @@ As a key component of the Student SOC Toolkit, the facilitation guide offers det
 
 [<img src="/i/guide-3.png" alt="Preview the interactive course" width="200"/>](/resources/MSFT%20SOC%20Training%20for%20Students-Implementation%20Guide_March2025.pdf)
 
-### SCORM files
+### SCORM file
 Select the link below to download the course as a SCORM v1.2 Learning object to install and adapt in your own learning management system (LMS).
 
 [<img src="/i/scorm-3.png" alt="Download the SCORM zip file" width="200"/>](https://github.com/sburt1/socsinabox/raw/refs/heads/main/SOCs-in-a-Box-SCORM.zip)
