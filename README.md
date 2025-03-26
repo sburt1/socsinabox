@@ -13,7 +13,7 @@ Over four 45-minute, self-paced lessons, you'll explore SOC functions, best prac
 3. Scenarios and practical applications
 4. Best practices and career readiness
 
-[<img src="/i/preview2.jpg" alt="Preview the interactive course" width="200" />](https://sburt1.github.io/socsinabox/content/#/)
+[<img src="/i/preview2.jpg" alt="Preview the interactive course" width="200" target="_blank"/>](https://sburt1.github.io/socsinabox/content/#/)
 
 ### SCORM files
 Select the link below to download the course as a SCORM v1.2 Learning object to install and adapt in your own learning management system (LMS).
