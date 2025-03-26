@@ -1,5 +1,5 @@
 # SOCs in a Box
-![Alt text](/i/hero.png?raw=true "Hero Image")
+![Alt text](/i/hero-2.jpg?raw=true "Hero Image")
 ##Security Operations Course for Students
 **Developed by Microsoft Education**
 
